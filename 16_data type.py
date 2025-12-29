@@ -1,0 +1,32 @@
+x = "Hello World"	
+print(type(x))	
+
+x = 20
+print(type(x))
+
+x = 20.5
+print(type(x))
+
+x = 9j
+print(type(x))
+
+x = ["apple", "banana", "cherry"]
+print(type(x))
+
+x = ("apple", "banana", "cherry")
+print(type(x))
+
+x = range(6)
+print(type(x))
+	
+x = {"apple", "banana", "cherry"}
+print(type(x))
+
+x = frozenset({"apple", "banana", "cherry"})
+print(type(x))
+
+x = True
+print(type(x))
+
+x = b"Hello"
+print(type(x))

@@ -1,0 +1,1 @@
+print("you are eligible for your mst -1");print("you can score more number in mst-1 as compare to mst-2")
